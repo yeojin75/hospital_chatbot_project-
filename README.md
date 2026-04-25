@@ -5,7 +5,7 @@
 > 미래내일일경험 사업 (2025.05.20 ~ 2025.06.30) | 참여기관: 동구노인종합복지관
 
 ---
-
+<img width="466" height="909" alt="Image" src="https://github.com/user-attachments/assets/cda16c77-de85-4cf8-b481-a4c68c155116" />
 ## 기술 스택
 
 | 구분 | 기술 |
